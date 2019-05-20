@@ -1,0 +1,71 @@
+html {
+    height: 100%;
+}
+{
+title {
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+    text-align: right
+    font-family: cursive;
+}
+}
+body {
+    width: 80%;
+    margin: 0 auto;
+    background-color: beige;
+
+}
+
+header {
+        width: 300px;
+        border: 15px solid green;
+        padding: 50px;
+        margin: 20px;
+        text-align: center;
+    }
+
+
+}
+h1{ 
+    font-size: 35px;
+    font-family: cursive;
+}
+h2 {
+    font-size: 30px;
+}
+
+nav {
+
+
+
+}
+
+main {
+
+
+
+}
+
+article {
+    width: 500px;
+        border: 30px solid red;
+        padding: 50px;
+        margin: 20px;
+        text-align: center;
+    
+
+
+}
+h3{
+    height: 50px;
+    width: 200px;
+    background-color: powderblue;
+    text-align: center
+  }
+      
+}
+footer 
+
+}
